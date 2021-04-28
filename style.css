@@ -1,0 +1,93 @@
+
+            .center {
+                text-align: center;
+            }
+            .hr{
+                background-color: black;
+                color:blanchedalmond;
+                margin-top: -10px;
+            }  
+            .redes{
+                position: absolute; left: 0; right: 0;
+                margin-top: -65px;
+            }
+            .corpo {
+                margin: auto;
+                width: 1000px;
+                margin-top: 135px;
+            }
+            body {
+                /*user-select: none;*/
+                font-family: Arial, Helvetica, sans-serif;
+                color: black;
+            }
+            .imagem{
+                display: table-cell;
+                float: left;
+            }
+            .livro {
+                display: table-cell;
+                margin-top: 20px;
+                margin-left: 170px;    
+                float: left;
+            }
+            .imagem2{
+                display: table-cell;
+                float: right;
+            }
+            .conteudo {
+                margin-left: 20px;
+                float: left;
+                margin-top: 5px;
+                width: 650px;
+            }
+            .conteudo2 {
+                margin-left: 20px;
+                float: left;
+                margin-top: -15px;
+                width: 650px;
+            }
+            .conteudo3 {
+                position: absolute; top: 55%; left: 25%;  
+                margin: auto;
+                width: 650px;
+                margin-top: -37px;
+                margin-left: 18px;
+            }
+            .conteudo4 {
+                position: absolute; top: 145%; 
+                display: table-cell;
+                float: left;
+                
+            }
+            .machado {
+                position: absolute; top: 80%;
+                float: right;
+                margin-top: -5px;
+                margin-left: 215px;
+               
+            }
+            .Tia {
+                position: absolute; top: 80%; 
+                display: table-cell;
+                float: left;
+                margin-left: 1px;
+            }
+            .mulher {
+                position: absolute; top: 145%; right: 12.5%;
+                display: table-cell;
+                float: right;
+                margin-right: 1px;
+            }
+            .preterito {
+                position: absolute; top: 206%; 
+            }
+            .titulo {
+                position: relative; left: -38%;
+                margin: 400px;
+                margin-top: 1px;
+            }
+            .linha {
+                margin-top: 5px;
+            }
+            
